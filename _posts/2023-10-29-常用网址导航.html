@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <title>常用网址导航</title>
+  <style>
+    .website-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .website-list .hot-item {
+      flex: 0 1 calc(25% - 10px);
+      margin-bottom: 20px;
+      overflow: hidden; /* 避免图片溢出容器 */
+    }
+    .website-list .hot-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* 图片填充整个容器，保持纵横比 */
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <div class="website-list">
+
+        <div class="hot-item">
+          <div class="item-card">
+            <div class="icons">
+              <img src="https://img.llyz.xyz/https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01570.jpg" alt="Image Alt Text">
+            </div>
+            <div class="contents">
+              <a href="https://luolei.org/" class="website" target="_blank" rel="nofollow" style="color:#444;">
+                罗磊的独立博客
+              </a>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+        <div class="hot-item">
+          <div class="item-card">
+            <div class="icons">
+              <img src="{{ '/assets/image/index/golang.ico' | relative_url }}" alt="Image Alt Text">
+            </div>
+            <div class="contents">
+              <a href="https://coolshell.cn/" class="website" target="_blank" rel="nofollow" style="color:#444;">
+                coolshell
+              </a>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+        <div class="hot-item">
+          <div class="item-card">
+            <div class="icons">
+              <img src="{{ '/assets/image/index/golang.ico' | relative_url }}" alt="Image Alt Text">
+            </div>
+            <div class="contents">
+              <a href="https://www.codingtour.com/" class="website" target="_blank" rel="nofollow" style="color:#444;">
+                codingtour
+              </a>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+        <div class="hot-item">
+          <div class="item-card">
+            <div class="icons">
+              <img src="{{ '/assets/image/index/golang.ico' | relative_url }}" alt="Image Alt Text">
+            </div>
+            <div class="contents">
+              <a href="http://www.tianshouzhi.com/" class="website" target="_blank" rel="nofollow" style="color:#444;">
+                田守支 Java 技术博客
+              </a>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+        <!--        lin2-->
+        <div class="hot-item">
+          <div class="item-card">
+            <div class="icons">
+              <img src="{{ '/assets/image/index/golang.ico' | relative_url }}" alt="Image Alt Text">
+            </div>
+            <div class="contents">
+              <a href="https://magestack.cn/" class="website" target="_blank" rel="nofollow" style="color:#444;">
+                马哥
+              </a>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+        <div class="hot-item">
+          <div class="item-card">
+            <div class="icons">
+              <img src="{{ '/assets/image/index/golang.ico' | relative_url }}" alt="Image Alt Text">
+            </div>
+            <div class="contents">
+              <a href="https://www.programmercarl.com/" class="website" target="_blank" rel="nofollow" style="color:#444;">
+                代码随想录
+              </a>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+        <div class="hot-item">
+          <div class="item-card">
+            <div class="icons">
+              <img src="{{ '/assets/image/index/golang.ico' | relative_url }}" alt="Image Alt Text">
+            </div>
+            <div class="contents">
+              <a href="https://godbasin.github.io/front-end-playground/" class="website" target="_blank" rel="nofollow" style="color:#444;">
+                被删
+              </a>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
