@@ -10,3 +10,6 @@ toc: true
 
 [单元测试 SingletonTest](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/design-pattern/src/test/java/com/locke/designpattern/singleton/SingletonTest.java)
 
+## 3#、数组中重复的数字
+
+[单元测试 ArrayDuplicateNumberTest](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/ArrayDuplicateNumberTest.java)
