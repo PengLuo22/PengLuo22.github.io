@@ -15,3 +15,7 @@ toc: true
 3-1: [单元测试 ArrayDuplicateNumberTest](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/ArrayDuplicateNumberTest.java)
 
 3-2: [单元测试 GetDuplicateNumberFromArrayNotModifyTest](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/GetDuplicateNumberFromArrayNotModifyTest.java)
+
+## 4#、二维数组中的查找
+
+[单元测试 GetNumberFromSortedMatrixTest](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/GetNumberFromSortedMatrixTest.java)
