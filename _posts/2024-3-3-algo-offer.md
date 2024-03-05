@@ -19,3 +19,12 @@ toc: true
 ## 4#、二维数组中的查找
 
 [单元测试 GetNumberFromSortedMatrixTest](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/GetNumberFromSortedMatrixTest.java)
+
+## 5#、替换空格
+
+[单元测试 ReplaceBlankTest](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/ReplaceBlankTest.java)
+
+
+## See Also
+1.[《剑指Offer2》Github仓库](https://github.com/zhedahht/CodingInterviewChinese2)
+
