@@ -25,6 +25,12 @@ toc: true
 [单元测试 ReplaceBlankTest](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/ReplaceBlankTest.java)
 
 
+## 6#、从尾到头打印链表
+
+[单元测试 PrintLinkedListTest.java](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/PrintLinkedListTest.java)
+
+
+
 ## See Also
 1.[《剑指Offer2》Github仓库](https://github.com/zhedahht/CodingInterviewChinese2)
 
