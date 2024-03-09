@@ -29,6 +29,11 @@ toc: true
 
 [单元测试 PrintLinkedListTest.java](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/PrintLinkedListTest.java)
 
+## 7#、重建二叉树
+
+[单元测试 RebuildBinaryTreeTest.java](https://github.com/PengLuo22/spring-boot-integration-lab/blob/main/spring-boot-integration-parent/basic-ability/algorithm/src/test/java/com/locke/algorithm/RebuildBinaryTreeTest.java)
+
+
 
 
 ## See Also
