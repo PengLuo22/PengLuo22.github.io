@@ -12,7 +12,7 @@ toc: true
 
 然后上传了一个gif测试下，完美。
 
-![](http://sbighb8sj.hn-bkt.clouddn.com/动画.gif)
+![](https://sbighb8sj.hn-bkt.clouddn.com/动画.gif)
 
 
 
@@ -22,7 +22,8 @@ toc: true
 
 按照教程配置完后，出现了链接无法显示的问题。经过排查发现，是域名配置的问题。
 
-![](http://sbighb8sj.hn-bkt.clouddn.com/Snipaste_2024-04-06_18-11-01.png)
+![](https://sbighb8sj.hn-bkt.clouddn.com/Snipaste_2024-04-06_18-11-01.png)
+
 
 
 
