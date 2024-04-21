@@ -7,5 +7,5 @@ toc: true
 ---
 
 ## quick start
-飞书文档地址：https://vxe2dlmugyl.feishu.cn/wiki/EotQwSMipiL1DfkXgUGcLBsbnhb
-github: https://github.com/PengLuo22/xuecheng-plus-project/tree/main?tab=readme-ov-file
+* [飞书文档地址](https://vxe2dlmugyl.feishu.cn/wiki/EotQwSMipiL1DfkXgUGcLBsbnhb)
+* [github仓库](https://github.com/PengLuo22/xuecheng-plus-project/tree/main?tab=readme-ov-file)
