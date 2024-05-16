@@ -1,7 +1,7 @@
 ---
 title: Java 并发编程
 date: 2024-3-26 20:00:00 +0800
-categories: [Java基本功,并发编程]
+categories: [基本功,并发编程]
 tags: [并发编程,基本功]     # TAG names should always be lowercase
 toc: true
 ---
