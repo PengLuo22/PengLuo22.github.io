@@ -26,6 +26,7 @@ toc: true
 
 
 
+文件上传的问题解决了，但是又有了 http://xxx.png is not an HTTPS link 的问题，这个问题之前就有遇到，当时选择不传http开头的链接避免了报错。
 
 
 
